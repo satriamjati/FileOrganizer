@@ -137,12 +137,12 @@ Furthermore, you can create your own modification to answer your curiousity.
 
 ### root of the specified directory (before-after)
 
-<img src="images/before_deleteDuplicatesOverFolders_root.png" alt="hashfruits Screenshot" width="100%"/><img src="images/after_deleteDuplicatesOverFolders_root.png" alt="sortexample Screenshot" width="100%"/>
+<img src="images/before_deleteDuplicatesOverFolders_root.png" alt="before deleteDuplicatesOverFolders() root Screenshot" width="100%"/><img src="images/after_deleteDuplicatesOverFolders_root.png" alt="after deleteDuplicatesOverFolders() root Screenshot" width="100%"/>
 
 
 ### subdirectory of the specified directory (before-after)
 
-<img src="images/before_deleteDuplicatesOverFolders_subdirectory.png" alt="hashfruits Screenshot" width="100%"/><img src="images/after_deleteDuplicatesOverFolders_subdirectory.png" alt="sortexample Screenshot" width="100%"/>
+<img src="images/before_deleteDuplicatesOverFolders_subDirectory.png" alt="before deleteDuplicatesOverFolders() subdirectory Screenshot" width="100%"/><img src="images/after_deleteDuplicatesOverFolders_subDirectory.png" alt="after deleteDuplicatesOverFolders() subdirectory Screenshot" width="100%"/>
 
 <!-- FUTURE DEVELOPMENT -->
 ## Future Development

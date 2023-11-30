@@ -133,6 +133,9 @@ Furthermore, you can create your own modification to answer your curiousity.
 ### after
 <img src="images/after_deleteDuplicates.png" alt="after deleteDuplicates() Screenshot" width="100%"/>
 
+
+<p align="right">(<a href="#">back to top</a>)</p>
+
 ### `deleteDuplicatesOverFolders`
 
 ### root of the specified directory (before-after)
@@ -143,6 +146,9 @@ Furthermore, you can create your own modification to answer your curiousity.
 ### subdirectory of the specified directory (before-after)
 
 <img src="images/before_deleteDuplicatesOverFolders_subDirectory.png" alt="before deleteDuplicatesOverFolders() subdirectory Screenshot" width="100%"/><img src="images/after_deleteDuplicatesOverFolders_subDirectory.png" alt="after deleteDuplicatesOverFolders() subdirectory Screenshot" width="100%"/>
+
+
+<p align="right">(<a href="#">back to top</a>)</p>
 
 <!-- FUTURE DEVELOPMENT -->
 ## Future Development
